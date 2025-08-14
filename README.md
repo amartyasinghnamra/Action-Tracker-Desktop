@@ -4,8 +4,6 @@
 
 A desktop app built with Python to track daily activities, rate their outcomes, and improve time management.
 
-![App Screenshot](screenshot1.png)
-
 ## About The Project
 
 Action Tracker is a desktop app for logging daily activities and rating their outcomes. It helps you organize your habits, understand which activities waste your time, and achieve better time management. This app is especially for those who struggle with managing their time efficiently.
