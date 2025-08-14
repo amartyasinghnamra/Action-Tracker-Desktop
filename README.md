@@ -4,7 +4,7 @@
 
 A desktop app built with Python to track daily activities, rate their outcomes, and improve time management.
 
-![App Screenshot](screenshot.png)
+![App Screenshot](screenshot1.png)
 
 ## About The Project
 
